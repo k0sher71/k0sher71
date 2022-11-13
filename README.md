@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, Bem-vindo(a) ao meu Github!
 
-<!--
-**k0sher71/k0sher71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😀 Meu nome é Guilherme Costa.
+- 🌴 17 anos.
+- 🌎 Brazil.
+- 💈  Barbeiro.
 
-Here are some ideas to get you started:
+## Atualmente estudando e utilizando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+
+![](https://github-readme-stats.vercel.app/api?username=k0sher71&show_icons=true&bg_color=00000000)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=k0sher71&layout=compact)](https://github.com/k0sher71/README.md)
